@@ -1,0 +1,2 @@
+190107111,Gabriel,11122233,30-05-1997,123321,false,aluno,CIC
+123456,TesteNome,11122233344,01-01-2000,1234,false,professor,Engenharia
